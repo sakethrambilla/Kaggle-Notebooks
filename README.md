@@ -18,9 +18,37 @@
 | 12     | Gradient Boosting                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/pca-for-beginners?kernelSessionId=112193623) |
 | 13     | AdaBoost                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/pca-for-beginners?kernelSessionId=112193623) |
 | 14     | Extra Tree Classifier                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/pca-for-beginners?kernelSessionId=112193623) |
+<hr>
 
+## Deep Learning Algorithms
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | Convolutional Neural Networks (CNNs)                                                   | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 2     | Long Short Term Memory Networks (LSTMs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 3     | Recurrent Neural Networks (RNNs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 4     | Generative Adversarial Networks (GANs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 5     | Radial Basis Function Networks (RBFNs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 6     | Radial Basis Function Networks (RBFNs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 7     | Self Organizing Maps (SOMs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 8     | Deep Belief Networks (DBNs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 9     | Restricted Boltzmann Machines( RBMs)                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 10     | Autoencoders                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+<hr>
 
-______
+## Language Models for NLP 
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | BERT                                                   | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 2     | GPT2                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 3     | XLNet                          | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 4     | RoBERTa                          | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 5     | ALBERT                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 6     | T5                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 7     | GPT3                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 8     | ELECTRA                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 9     | DeBERTa                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+| 10     | PaLM                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/encoding-for-beginners?kernelSessionId=112108925) |
+<hr>
 
 ## Other Notebooks
 
