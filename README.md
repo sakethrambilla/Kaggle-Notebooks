@@ -22,7 +22,7 @@
 ## Deep Learning Algorithms
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Convolutional Neural Networks (CNNs)                                                   |  |
+| 1     | Convolutional Neural Networks (CNNs)                                                   |  [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/digit-recognizer-using-cnn?kernelSessionId=119065373)|
 | 2     | Long Short Term Memory Networks (LSTMs)                           |  |
 | 3     | Recurrent Neural Networks (RNNs)                           |  |
 | 4     | Generative Adversarial Networks (GANs)                           |  |
