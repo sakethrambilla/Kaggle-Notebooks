@@ -12,7 +12,7 @@
 | 6     |  K-nearest neighbors                           | |
 | 7     |  Support vector machine (SVM) with kernels (Linear, Poly, RBF)        | |
 | 8     | Decision Tree                           |  |
-| 9     | K-means clustering                           |  |
+| 9     | K-means clustering                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/customer-segmentation-for-beginners-using-kmeans?kernelSessionId=118911547) |
 | 10     | Random Forests                           |  |
 | 11     | Gradient Boosting                           | |
 | 12     | AdaBoost                           |  |
