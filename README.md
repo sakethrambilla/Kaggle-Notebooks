@@ -9,7 +9,7 @@
 | 3     | Linear Regression                       | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/linear-regression-car-price-prediction?kernelSessionId=118355590) |
 | 4     |  Logistic Regression                           |[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/titanic-survival-using-logistic-regression?kernelSessionId=114620609) |
 | 5     | Naive Bayes - Gaussian Naive Bayes                           |[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/naive-bayes-classifier?kernelSessionId=121107998)  |
-| 6     |  K-nearest neighbors                           | |
+| 6     |  K-nearest neighbors                           |[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/diabetes-detection-using-knn-classifier?kernelSessionId=121203016) |
 | 7     |  Support vector machine (SVM) with kernels (Linear, Poly, RBF)        | |
 | 8     | Decision Tree                           |  |
 | 9     | K-means clustering                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/customer-segmentation-for-beginners-using-kmeans?kernelSessionId=118911547) |
