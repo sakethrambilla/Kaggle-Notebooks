@@ -13,9 +13,9 @@
 | 7     |  Support vector machine (SVM) with kernels (Linear, Poly, RBF)        |[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/gender-recognition-by-voise-using-svm?kernelSessionId=121314022) |
 | 8     | Decision Tree                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/gender-classification-using-decision-tree?kernelSessionId=119871313) |
 | 9     | K-means clustering                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/customer-segmentation-for-beginners-using-kmeans?kernelSessionId=118911547) |
-| 10     | Random Forests                           |  |
+| 10     | Random Forests                           |  [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/random-forest-classifier?kernelSessionId=121321153) |
 | 11     | Gradient Boosting                           |[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/spaceship-titanic?kernelSessionId=116231674)  |
-| 12     | AdaBoost                           |  |
+| 12     | AdaBoost                           | [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/code/pumpkin18/heart-disease-prediction-using-adaboost?kernelSessionId=121428034) |
 | 13     | Extra Tree Classifier                           |  |
 <hr>
 
